@@ -1,0 +1,6 @@
+
+three different types
+
+inline 
+internal
+external
